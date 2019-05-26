@@ -29,4 +29,6 @@ The code below renders "correctly" (does what I want/expect) in a GitHub reposit
   
 </details>
 
+I assume this is because different rendering engines are used for GitHub repositories and GitHub Pages. Is that right? Is there a way to make this code work in both places?
+
 [ghp]: <https://douglasurner.github.io/Markdown-Rendering-Differences/README.html>
