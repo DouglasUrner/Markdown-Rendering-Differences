@@ -7,7 +7,9 @@
   <summary>
     Summary Body
   </summary>
-  ## The Details
-  * Thing 1
-  * Thing 2
+  
+## The Details
+* Thing 1
+* Thing 2
+  
 </details>
