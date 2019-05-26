@@ -16,4 +16,4 @@ The code below renders "correctly" (does what I want/expect) in a GitHub reposit
   
 </details>
 
-[ghp]: <>
+[ghp]: <https://douglasurner.github.io/Markdown-Rendering-Differences/README.html>
